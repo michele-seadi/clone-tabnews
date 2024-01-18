@@ -1,2 +1,2 @@
-# clone-tabnews
+.# clone-tabnews
 Repositório para estudo.
