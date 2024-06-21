@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      Mensagem de aviso de que eu, Michele, estou aprendendo deploy na
-      Plataforma Vercel. Mensagem 2!{" "}
+     Plataforma de testes: Aprendizagem WEB Mensagem 2!{" "}
     </h1>
   );
 }
