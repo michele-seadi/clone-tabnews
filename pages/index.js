@@ -20,8 +20,9 @@ function Home() {
 
   return (
     <h1 id="demo" style={{ textAlign: "center" }}>
-      Plataforma de aprendizagem. Ainda não é possível mostrar muita coisa, mas
-      você já pode ver as horas: {time}
+      Plataforma de aprendizagem.<br></br>Ainda não é possível mostrar muita
+      coisa, mas você já pode ver as horas: <br></br>
+      {time}
     </h1>
   );
 }
