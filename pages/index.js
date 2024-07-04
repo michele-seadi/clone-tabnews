@@ -19,7 +19,10 @@ function Home() {
   }, []);
 
   return (
-    <h1 id="demo">Plataforma de testes: Aprendizagem WEB Mensagem 5! {time}</h1>
+    <h1 id="demo">
+      Plataforma de aprendizagem. Ainda não é possível mostrar muita coisa, mas
+      você já pode ver as horas: {time}
+    </h1>
   );
 }
 
